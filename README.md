@@ -5,7 +5,7 @@
 * [Tecnologias](#tecnologias)
 
 ## Overview
-O mercado imobiliário é cíclico e muitas vezes, subjetivo. Por conta disso, inúmeras oportunidades de ganho de capital normalmente estão disponíveis no mercado. A utilização de grandes conjuntos de dados como suporte no processo decisório na compra imobiliária vem se tornando fundamental, e muitas vezes, indispensável. O presente trabalho busca auxiliar no processo decisório da Roof Imóveis, empresa especializada na aquisição de imóveis
+O mercado imobiliário é cíclico e muitas vezes, subjetivo. Por conta disso, inúmeras oportunidades de ganho de capital normalmente estão disponíveis no mercado. A utilização de grandes conjuntos de dados como suporte no processo decisório na compra imobiliária vem se tornando fundamental, e muitas vezes, indispensável. O presente trabalho busca auxiliar no processo decisório da Roof Imóveis na compra de 5 imóveis na costa oeste dos estados unidos, empresa especializada na aquisição de imóveis.
 	
 ## Tecnologias
 Projeto criado com:
