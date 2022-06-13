@@ -13,7 +13,7 @@ O mercado imobiliário é cíclico e muitas vezes, subjetivo. Por conta disso, i
 Os dados utilizados na análise são open source e podem ser encontrados no seguinte website: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
 ## Data Understanding
-Análises de correlação entre variáveis numéricas, e testes anova entre variáveis categóricas e numéricas para obtenção de atributos associados a variável alvo utilizando a lib pandas e scipy.stats.
+Análises de correlação entre variáveis numéricas, e testes anova entre variáveis categóricas e numéricas para obtenção de atributos associados a variável alvo ('preço_por_ft2) utilizando a lib pandas e scipy.stats.
 
 Arquivo: projeto_parte1.ipynb
 
